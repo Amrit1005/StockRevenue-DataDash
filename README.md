@@ -14,8 +14,14 @@ Dashboards: Builds interactive dashboards to present the analyzed data effective
 
 Technologies Used:
 1.Python
+
 2.yfinance
+
 3.BeautifulSoup
+
 4.requests
+
 5.pandas
+
 6.matplotlib
+
